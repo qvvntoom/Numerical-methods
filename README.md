@@ -5,3 +5,4 @@ In the repository you will find materials on:
 - LU decomposition
 - QR Householder decomposition
 - Spline functions
+- Shepard's interpolation
